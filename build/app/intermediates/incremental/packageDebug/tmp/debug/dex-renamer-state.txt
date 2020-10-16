@@ -1,0 +1,4 @@
+#Tue Jul 14 17:02:53 EET 2020
+base.0=C\:\\Users\\Mina\\Desktop\\ticket_booking_app_design-master\\ticket_booking_app_design-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

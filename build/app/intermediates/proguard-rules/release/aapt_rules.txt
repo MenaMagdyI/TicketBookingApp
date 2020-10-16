@@ -1,0 +1,6 @@
+# Referenced at C:\Users\Mina\Desktop\ticket_booking_app_design-master\ticket_booking_app_design-master\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Mina\Desktop\ticket_booking_app_design-master\ticket_booking_app_design-master\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:22
+-keep class com.example.ticketbooking_app.MainActivity { <init>(); }
+# Referenced at C:\Users\Mina\Desktop\ticket_booking_app_design-master\ticket_booking_app_design-master\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(); }
